@@ -1,3 +1,3 @@
 function helloWorld {
-  print("Hello World");
+  alert("Hello World from another computer");
 }
